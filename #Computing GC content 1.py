@@ -30,6 +30,5 @@ for dna_id, dna_string in dna_dict.items():
 print(best_id)
 print(round(max_gc, 6)) # oкругляем число до 6 знаков после запятой с помощью round()
 
-#Double-Degree Array
 
 
